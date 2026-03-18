@@ -1,0 +1,9 @@
+This is code I use across a TON of projects.
+All code is licensed under The Unlicense.
+SPDX-License-Identifier: Unlicense
+
+loader/ - a C++ interface for dlsym/dlopen
+progname/ - a cross-platform interface for getting the path of the current executable
+other/isnum.c - a simple function for checking if a string is a number
+other/printr.h - an extensive set of extensions for C++23 <print>
+other/types.h - a set of typedefs to be similar to rusts types
