@@ -1,5 +1,5 @@
 This is code I use across a TON of projects.
-All code is licensed under The Unlicense.
+All code is Public Domain, licensed under The Unlicense.
 SPDX-License-Identifier: Unlicense
 
 loader/ - a C++ interface for dlsym/dlopen
